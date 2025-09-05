@@ -1,0 +1,4 @@
+config:
+  aws:region: ap-southeast-1
+  aws-hands-on-exam:sshPublicKey: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC..."
+  aws-hands-on-exam:myIp: "123.45.67.89/32"
